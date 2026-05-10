@@ -1,0 +1,4 @@
+runpod
+kokoro-onnx
+soundfile
+numpy
